@@ -1,0 +1,17 @@
+/node_modules
+/dist
+/build
+
+logs
+*.log
+pnpm-debug.log*
+
+/coverage
+
+.env
+.env.local
+
+.temp
+.tmp
+
+run
